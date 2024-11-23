@@ -1,2 +1,1 @@
-# PROJETO_ENTREGA
-Repositorio Quantum Bet
+# Pi_2-
